@@ -21,7 +21,7 @@
 The basic framework of the front-end being provided, I have completed the back-end for this workout tracker. 
 This application uses Mongo database with a Mongoose schema and handles routes with Express.
 
-Deployment:  // TO BE ADDED //
+Deployment:  https://pacific-hamlet-53779.herokuapp.com/
 
 ## Technologies used
 
@@ -40,7 +40,21 @@ Please use: npm i
 
 ## Usage
 
-// TO BE ADDED //
+Screenshot 1: Once the user opens the app, the UI below is shown. The app prints the last workout if exists.
+
+![](./img/img1.png)
+
+--------
+
+Screenshot 2: Upon choosing New Workout, the user can add a new workout menu with the information desired. 
+
+![](./img/img2.png)
+
+--------
+
+Screenshot 3: /stats api will generate the dashboard of the past workouts and plots graphs. Future deveploment could improve the duplicated workout menus being displayed. 
+
+![](./img/img3.png)
 
 ## License
 
